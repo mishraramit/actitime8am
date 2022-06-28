@@ -39,5 +39,9 @@ public class CustomerModule extends BaseCLass{
 		String actualCustText = t.getActualCustomer().getText();
 		Assert.assertEquals(actualCustText, customerName);
 	}
+	@Test
+	public void deletcutomer() {
+		
+	}
 }
 
