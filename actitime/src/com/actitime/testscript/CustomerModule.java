@@ -41,7 +41,7 @@ public class CustomerModule extends BaseCLass{
 	}
 	@Test
 	public void deletcutomer() {
-		
+		Reporter.log("delete Customer",true);
 	}
 }
 
